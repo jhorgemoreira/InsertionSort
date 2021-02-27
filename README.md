@@ -11,5 +11,5 @@ Vantagens
 Desvantagens
 
     Alto custo de movimentação de elementos no vetor.
-    
-    CRIADO POR: JORGE LUIS MOREIRA GOMES FILHO.
+
+CRIADO POR: JORGE LUIS MOREIRA GOMES FILHO.
